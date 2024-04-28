@@ -1,4 +1,8 @@
-# We-Code-with-IBM-CyberStart
+# We Code with IBM: CyberStart
+
+It is a repo containing assignments and notes regarding the CyberStart program organized by Kodluyoruz with IBM. 
+
+## Detailed information about the program:
 
 With the "We Code with IBM: CyberStart" program, we offer the opportunity to develop your technical skills using the Python programming language. You'll get familiar with a wide range of software technology fields and acquire general knowledge. We aim to help you establish a solid foundation for your career in both software development and cybersecurity areas.
 
